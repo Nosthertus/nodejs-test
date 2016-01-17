@@ -12,6 +12,9 @@
 				'@': {
 					templateUrl: 'views/site/index.html',
 					controller: 'SiteController'
+				},
+				'content@main': {
+					templateUrl: 'views/site/content.html'
 				}
 			}
 		});
