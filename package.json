@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosthertus/nodejs-test.git"
+  },
+  "author": "Oscar Reyes <darkfreak17@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosthertus/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/Nosthertus/nodejs-test#readme",
+  "dependencies": {
+    "diet": "^0.9.29",
+    "mysql": "^2.10.2",
+    "sequelize": "^3.17.3",
+    "socket.io": "^1.4.4"
+  }
+}
